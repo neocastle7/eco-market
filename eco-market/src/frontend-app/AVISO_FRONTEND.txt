@@ -1,0 +1,14 @@
+======================================================================
+📢 ESPAÇO RESERVADO PARA JENNYFER E LUAN (FRONTEND)
+======================================================================
+
+Olá Jennyfer e Luan! Este é o espaço para vocês desenvolverem a interface do nosso EcoMarket.
+
+Requisitos do Professor para a Interface:
+- Pode ser feito em HTML/CSS/JS puros ou usando frameworks (Angular/React).
+- Deve conter as telas de CRUD:
+    1. Tela de Cadastro/Login de Usuários (Ponto Extra se integrado à autenticação).
+    2. Tela de Cadastro e Listagem de Produtos Sustentáveis.
+- Deve se conectar com o Backend do Lucas e Jackson através das URLs da API.
+
+Bons códigos! 🚀
