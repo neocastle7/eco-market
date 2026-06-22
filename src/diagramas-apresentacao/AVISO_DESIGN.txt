@@ -1,0 +1,10 @@
+======================================================================
+📢 ESPAÇO RESERVADO PARA O LEONARDO (DIAGRAMAS E SLIDES)
+======================================================================
+
+Fala Léo! Coloque aqui os arquivos da nossa apresentação de 7 minutos.
+
+O que o professor exigiu de você para os slides:
+- Diagrama de Caso de Uso (Visão dinâmica das funcionalidades).
+- Diagrama de Classes ou DER (Visão estática dos componentes/banco de dados).
+- O arquivo de slides final do grupo.
